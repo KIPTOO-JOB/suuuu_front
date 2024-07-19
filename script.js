@@ -1,5 +1,5 @@
 console.log("hell ");
-const url = "https://suuuu-ten.vercel.app/propertyt";
+const url = "https://suuuu-ten.vercel.app/property";
 
 fetch(url)
 	.then((res) => res.json())
